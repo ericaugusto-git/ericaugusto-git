@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ericaugusto-git&show_icons=true&theme=algolia" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="left" width="47%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
