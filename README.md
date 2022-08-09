@@ -1,4 +1,4 @@
-### Olá 😄, meu nome é Eric Augusto e eu sou um estudante de Ciências da Computação fissurado por tecnologia e com uma imensa aspiração para me tornar um desenvolvedor Back-end.
+### Olá 😄, meu nome é Eric Augusto e eu sou um estudante de Ciências da Computação fissurado por tecnologia e com uma imensa aspiração para me tornar um desenvolvedor Full-stack.
  
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericaugusto-git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
