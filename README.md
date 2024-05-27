@@ -10,7 +10,7 @@
  
 </p>
 <p align="center">
-Hello World 👋! I'm a remote Frontend Developer based in Brazil with 4+ of experience as coding enthusiast and 2+ as an professional developer. Looking for problems to solve, if you're a problem you better watch out :angry:
+Hello World 👋! I'm a remote Frontend Developer based in Brazil with 4+ years of experience as coding enthusiast and 2+ years as an professional developer. Looking for problems to solve, if you're a problem you better watch out :angry:
 </p>
 
 ## 🗃 Projects
