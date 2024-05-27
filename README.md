@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ericaugusto-git">
-   <img src="https://github.com/ericaugusto-git/ericaugusto-git/assets/56616279/e71b26de-f18b-4061-9568-b44fd84ad34e"/>
+   <img src="https://github.com/ericaugusto-git/ericaugusto-git/assets/56616279/78d5de4b-1622-41ac-8b08-0376813b4b33"/>
   </a>
 </p>
 
