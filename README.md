@@ -10,7 +10,7 @@
  
 </p>
 
-Hello World 👋! I'm Remote Front End Developer based in Brazil. Looking for problems to solve, if you're a problem you better watch out :angry:
+Hello World 👋! I'm a Remote Front End Developer based in Brazil. Looking for problems to solve, if you're a problem you better watch out :angry:
 
 ## 🗃 Projects
 
@@ -23,11 +23,11 @@ Hello World 👋! I'm Remote Front End Developer based in Brazil. Looking for pr
 </div>
 
 
-## What i'm cooking <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="45px" align="top">
+## <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="45px" align="top"> What i'm cooking
 - 🔭 Working on my personal website <a href="https://ericaugusto-os.pages.dev" target="_blank">https://ericaugusto-os.pages.dev</a>
 - 🌱 Currently learning Next.js and motion design on the web
 
-## Skill & Tools
+## 🛠️💡 Skill & Tools
   <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,scss,tailwind,styledcomponents,react,ts" />
   <img src="https://skillicons.dev/icons?i=angular,nextjs,nodejs,vite,webpack,npm,py" />
@@ -37,7 +37,7 @@ Hello World 👋! I'm Remote Front End Developer based in Brazil. Looking for pr
 
   <br/>
 
-## Stats ⚡
+## ⚡ Stats 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ericaugusto-git&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB&custom_title=Stats" height="192px"/>
