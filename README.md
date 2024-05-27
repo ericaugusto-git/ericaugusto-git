@@ -10,7 +10,7 @@
  
 </p>
 
-Remote Software Engineer based in Brazil. Looking for problems to solve, if you're a problem you better watch out :angry:
+Hello World 👋! I'm Remote Front End Developer based in Brazil. Looking for problems to solve, if you're a problem you better watch out :angry:
 
 ## 🗃 Projects
 
