@@ -9,8 +9,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1000&color=61DAFB&center=true&random=false&width=435&lines=Experienced+Front+End+Developer;Problem+Solver;Computer+Science+Stundent;Constantly+learning+things;Welcome+to+my+profile+%3AD" alt="Typing SVG" /></a>
  
 </p>
-
-Hello World 👋! I'm a remote Frontend Developer based in Brazil. Looking for problems to solve, if you're a problem you better watch out :angry:
+<p align="center">
+Hello World 👋! I'm a remote Frontend Developer based in Brazil with 4+ of experience as coding enthusiast and 2+ as an professional developer. Looking for problems to solve, if you're a problem you better watch out :angry:
+</p>
 
 ## 🗃 Projects
 
