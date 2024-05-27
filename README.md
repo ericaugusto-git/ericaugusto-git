@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/ericaugusto-git">
    <img src="https://github.com/ericaugusto-git/ericaugusto-git/assets/56616279/e71b26de-f18b-4061-9568-b44fd84ad34e"/>
   </a>
 </p>
@@ -18,13 +18,13 @@ Remote Software Engineer based in Brazil. Looking for problems to solve, if you'
    <a href="https://github.com/ericaugusto-git/discord-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericaugusto-git&repo=discord-clone&theme=react&hide_border=true&show_icons=false" alt="Discord Clone" /></a>
    <a href="https://github.com/ericaugusto-git/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericaugusto-git&repo=portfolio&theme=react&hide_border=true&show_icons=false" alt="portfolio" /></a>
    <p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/ericaugusto-git?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 </div>
 
 
 ## What i'm cooking <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="45px" align="top">
-- 🔭 Working on my personal website https://ericaugusto-os.pages.dev
+- 🔭 Working on my personal website <a href="https://ericaugusto-os.pages.dev" target="_blank">https://ericaugusto-os.pages.dev</a>
 - 🌱 Currently learning Next.js and motion design on the web
 
 ## Skill & Tools
@@ -43,7 +43,7 @@ Remote Software Engineer based in Brazil. Looking for problems to solve, if you'
   <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ericaugusto-git&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB&custom_title=Stats" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaugusto-git&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB" height="192px"/>
+  <img alt="Eric Augusto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaugusto-git&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB" height="192px"/>
   </a>
 <p align="center">  
     <a href="http://github-readme-streak-stats.herokuapp.com">
