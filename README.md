@@ -24,11 +24,11 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1000&color=61DAFB&center=true&random=false&width=435&lines=Experienced+Front+End+Developer;Problem+Solver;Computer+Science+Stundent;Constantly+learning+things;Welcome+to+my+profile+%3AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1000&color=61DAFB&center=true&random=false&width=435&lines=Experienced+Front+End+Developer;Problem+Solver;Computer+Science+Stundent;Constantly+learning+new+things;Welcome+to+my+profile+%3AD" alt="Typing SVG" /></a>
  
 </p>
 <p align="center">
-Hello World 👋! I'm a remote Frontend Developer based in Brazil with 4+ years of experience as coding enthusiast and 2+ years as an professional developer. Looking for problems to solve, if you're a problem you better watch out :angry:
+Hello World 👋! I'm a remote Frontend Developer based in Brazil with 4+ years of experience as a coding enthusiast and 2+ years as an professional developer. Looking for problems to solve, if you're a problem you better watch out :angry:
 </p>
 
 ## 🗃 Projects
