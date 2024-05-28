@@ -9,7 +9,7 @@
  </tr>
  <tr>
    <td style="text-align: center;">
-     <a href="">
+     <a href="https://github.com/ericaugusto-git/ericaugusto-git/blob/main/README-pt_BR.md">
        <img src="https://github.com/ericaugusto-git/ericaugusto-git/assets/56616279/aef79d33-f000-4730-8444-cc5c52c75d01" alt="Brazil flag" width="17px">
        Português
      </a>
