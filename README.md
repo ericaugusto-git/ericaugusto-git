@@ -1,4 +1,5 @@
-<table align="left">
+<div>
+ <table align="left">
  <tr>
    <td style="text-align: center;">
      <a href="https://github.com/ericaugusto-git/ericaugusto-git/blob/main/README.md" target="_blank">
@@ -73,5 +74,5 @@ Hello World 👋! I'm a remote Frontend Developer based in Brazil with 4+ years 
   
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&random=false&width=435&lines=Thanks+for+stopping+by!;See+ya+%5E_%5E" alt="Typing SVG" /></a>
-
+</div>
 
