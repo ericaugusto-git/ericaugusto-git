@@ -69,3 +69,4 @@ Olá, mundo 👋! Sou um Desenvolvedor Frontend remoto com mais de 4 anos de exp
 </p>
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&random=false&width=435&lines=Obrigado+por+visitar!;Até+mais+%5E_%5E" alt="Typing SVG" /></a>
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=200&section=footer&text=&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
