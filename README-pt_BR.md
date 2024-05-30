@@ -26,7 +26,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1000&color=61DAFB&center=true&random=false&width=460&lines=Desenvolver+Front+End+Experiente;Solucionador+de+Problemas;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;Sempre+aprendendo+coisas+novas;Bem-vindo(a)+ao+meu+perfil+%3AD" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-Olá, mundo 👋! Sou um Desenvolvedor Frontend remoto com mais de 4 anos de experiência como entusiasta de programação e mais de 2 anos como desenvolvedor profissional. Sempre à procura de problemas para resolver, se você for um problema é melhor tomar cuidado :angry:
+Olá mundo 👋! Sou um Desenvolvedor Frontend remoto com mais de 4 anos de experiência como entusiasta de programação e mais de 2 anos como desenvolvedor profissional. Sempre à procura de problemas para resolver, se você for um problema é melhor tomar cuidado :angry:
 </p>
 
 ## 🗃 Projetos
