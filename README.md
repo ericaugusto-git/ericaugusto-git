@@ -74,3 +74,4 @@ Hello World 👋! I'm a remote Frontend Developer based in Brazil with 4+ years 
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&random=false&width=435&lines=Thanks+for+stopping+by!;See+ya+%5E_%5E" alt="Typing SVG" /></a>
 
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=200&section=footer&text=&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
