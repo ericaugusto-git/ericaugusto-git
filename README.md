@@ -42,7 +42,7 @@ Hello World 👋! I'm a remote Frontend Developer based in Brazil with 4+ years 
 </div>
 
 
-## <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="45px" align="top"> What i'm cooking
+## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56616279/364180642-d4db3ef6-3bb2-47f9-8859-dfe40ec595c4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240904%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240904T000656Z&X-Amz-Expires=300&X-Amz-Signature=918d741fe6254ce3b4c7655e45bf8870bea0975f3c80b5871c57392e8d69270c&X-Amz-SignedHeaders=host&actor_id=56616279&key_id=0&repo_id=468916679" width="30px" align="top"> What i'm cooking
 - 🔭 Working on my personal website <a href="https://ericaugusto-os.pages.dev" target="_blank">https://ericaugusto-os.pages.dev</a>
 - 🌱 Currently learning Next.js and motion design on the web
 
