@@ -41,7 +41,7 @@ Hello World 👋! I'm a remote Frontend Developer based in Brazil with 4+ years 
   </p>
 </div>
 
-## <img src="https://github.com/user-attachments/assets/d48209b2-dfdb-4be1-b47e-d767501707eb" width="30px" align="top"> What i'm cooking
+## <img src="https://github.com/user-attachments/assets/d48209b2-dfdb-4be1-b47e-d767501707eb" width="30px" align="top"> What I'm cooking
 - 🔭 Working on my personal website <a href="https://ericaugusto-os.pages.dev" target="_blank">https://ericaugusto-os.pages.dev</a>
 - 🌱 Currently learning Next.js and motion design on the web
 
