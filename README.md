@@ -34,15 +34,15 @@ Hello World 👋! I'm a remote Frontend Developer based in Brazil with 4+ years 
 ## 🗃 Projects
 
 <div align="left">
+   <a href="https://github.com/ericaugusto-git/kashi-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericaugusto-git&repo=kashi-os&theme=react&hide_border=true&show_icons=false" alt="kashi-os" /></a>
    <a href="https://github.com/ericaugusto-git/discord-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericaugusto-git&repo=discord-clone&theme=react&hide_border=true&show_icons=false" alt="Discord Clone" /></a>
-   <a href="https://github.com/ericaugusto-git/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericaugusto-git&repo=portfolio&theme=react&hide_border=true&show_icons=false" alt="portfolio" /></a>
    <p align="left">
   <a href="https://github.com/ericaugusto-git?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 </div>
 
 ## <img src="https://github.com/user-attachments/assets/d48209b2-dfdb-4be1-b47e-d767501707eb" width="30px" align="top"> What I'm cooking
-- 🔭 Working on my personal website <a href="https://ericaugusto-os.pages.dev" target="_blank">https://ericaugusto-os.pages.dev</a>
+- 🔭 Working on my personal website <a href="https://ericaugusto-os.pages.dev" target="_blank">https://kashi-os.pages.dev</a>
 - 🌱 Currently learning Next.js and motion design on the web
 
 ## 🛠️💡 Skill & Tools
